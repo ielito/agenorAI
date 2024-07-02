@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DeV2e3bMKZpd2mMrmiNrZquLQLTjRErhaOLDaUp34MmBDDLiGacDqYyXyo1/gaJ3sIV6Nf6dBgf6gFeKjeZ3w==",
+  "success": true,
+  "projectFilePath": "/Users/ielo/Library/Mobile Documents/com~apple~CloudDocs/Dev/Nabuco AI/nabucoAi/nabucoAi.csproj",
+  "expectedPackageFiles": [
+    "/Users/ielo/.nuget/packages/awssdk.bedrock/3.7.302.31/awssdk.bedrock.3.7.302.31.nupkg.sha512",
+    "/Users/ielo/.nuget/packages/awssdk.bedrockruntime/3.7.306.2/awssdk.bedrockruntime.3.7.306.2.nupkg.sha512",
+    "/Users/ielo/.nuget/packages/awssdk.core/3.7.304.22/awssdk.core.3.7.304.22.nupkg.sha512",
+    "/Users/ielo/.nuget/packages/awssdk.s3/3.7.309.11/awssdk.s3.3.7.309.11.nupkg.sha512",
+    "/Users/ielo/.nuget/packages/outsystems.externallibraries.sdk/1.4.0/outsystems.externallibraries.sdk.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

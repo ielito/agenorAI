@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>nabucoAi</id>
+    <version>1.0.0</version>
+    <authors>nabucoAi</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="AWSSDK.Bedrock" version="3.7.302.31" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.BedrockRuntime" version="3.7.306.2" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.Core" version="3.7.304.22" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.S3" version="3.7.309.11" exclude="Build,Analyzers" />
+        <dependency id="OutSystems.ExternalLibraries.SDK" version="1.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/ielo/Library/Mobile Documents/com~apple~CloudDocs/Dev/Nabuco AI/nabucoAi/bin/Debug/net6.0/nabucoAi.runtimeconfig.json" target="lib/net6.0/nabucoAi.runtimeconfig.json" />
+    <file src="/Users/ielo/Library/Mobile Documents/com~apple~CloudDocs/Dev/Nabuco AI/nabucoAi/bin/Debug/net6.0/nabucoAi.dll" target="lib/net6.0/nabucoAi.dll" />
+  </files>
+</package>
